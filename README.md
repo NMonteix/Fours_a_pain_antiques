@@ -18,7 +18,7 @@ Le rassemblement de ces données n'aurait pas pu être réalisé sans l'aide de 
 - **Universités**: Monteil Martial (U. de Nantes), Paridaens Nicolas (U. Libre de Bruxelles), Vermeersch Didier (U. de Cergy-Pontoise), Vilvorder Fabienne (UCLouvain).
 
 ## Collaborer
-Pour signaler des erreurs ou ajouter des fours à cette liste, envoyer les informations permettant de remplir tous les champs, éventuellement assorties d'un plan et d'une photo, à <nicolas.monteix@univ-rouen.fr> ou bien intégrer les données dans le ficher et créer une *Pull request*.
+Pour signaler des erreurs ou ajouter des fours à cette liste, envoyer les informations permettant de remplir tous les champs, éventuellement assorties d'un plan et d'une photo, à <nicolas.monteix@univ-rouen.fr> ou bien intégrer les données dans le [fichier](https://github.com/NMonteix/Fours_a_pain_antiques/releases/) et créer une *Pull request*.
 
 ## Explications sur les champs déployés
 - **ID**: identifiant unique du four, de 1 à *n*. Les identifiants absents de la liste correspondent soient à des fours situés dans d'autres pays que ceux de la version concernée, soit à des effacements en cours de saisie

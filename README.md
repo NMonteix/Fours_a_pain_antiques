@@ -58,7 +58,7 @@ N.B. : Pour rappel, il n'y a pas d'année 0. Le Ier s. de notre ère aura ***1**
 - **notes** : champ libre dans lequel des données supplémentaires et des remarques sont proposées
 - **nombre** : valeur permettant de pondérer la permanence d'un four. Si la valeur maximale est fixée à ***1***, elle peut être réduite lorsque plusieurs fours distingués à la fouille se superposent au même endroit sans solution de continuité. En ce cas, la valeur est divisée par le nombre de four, éventuellement multipliée par le nombre de soles
 - **nombre sole** : indication du nombre de soles superposées dans un même four
-- **valeur_ponderee** : nombre de four pondéré par la longueur de l'arc chronologique durant lequel le four est supposé avoir fonctionné. Cette valeur permet de corriger les fortes approximations pouvant caractériser les datations proposées : pour le tracé des courbes d'évolution, elle réduit le poids des fours daté de manière très lâche. Formule appliquée : **`nombre`/ (`DateMax`- `DateMin`)**
+- **valeur_ponderee** : nombre de four pondéré par la longueur de l'arc chronologique durant lequel le four est supposé avoir fonctionné. Cette valeur permet de corriger les fortes approximations pouvant caractériser les datations proposées : pour le tracé des courbes d'évolution, elle réduit le poids des fours datés de manière très lâche. Formule appliquée : **`nombre`/ (`DateMax`- `DateMin`)**
 
 ## Citation
 **Monteix N. 2021** : Les fours à « pain » antiques (Ve s. av. n.è. - Ve s. de n.è.) : données (v. 1.0), _GitHub_ \[URL : [https://github.com/NMonteix/Fours_a_pain_antiques/](https://github.com/NMonteix/Fours_a_pain_antiques/)\].

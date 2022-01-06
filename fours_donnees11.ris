@@ -1,0 +1,11 @@
+TY  - ELEC
+TI  - Les fours à "pain" antiques (V<sup>e</sup> s. av. n.è. - V<sup>e</sup> s. de n.è.) : données (v. 1.1)
+AU  - Monteix, Nicolas
+T2  - GitHub
+AB  - Ce fichier présente les informations sur les fours à pain antiques, issues des rapports et publications de fouille, et rassemblées en particulier pour la rédaction de l'article "Les fours « à pain » dans les Gaules et les Germanies (Ve s. av. J.-C. n. è. - Ve s. apr. J.-C. apr. J.-C.), un regard technique", publié dans le volume 78-2 (2021) de Gallia. La liste rassemblée n'a aucune prétention à l'exhaustivité sur l'arc chronologique ou sur l'espace géographique concernés. Le format CSV permet la lecture du fichier dans n'importe quel tableur. Les données sont proposées sous licence CC-BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0/deed.fr).
+DA  - 2022/01/06/
+PY  - 2022
+LA  - fr
+UR  - https://github.com/NMonteix/Fours_a_pain_antiques/fours_donnees10.csv
+ER  - 
+

@@ -6,7 +6,7 @@ Ce [fichier](https://github.com/NMonteix/Fours_a_pain_antiques/releases/download
 ## Remerciements
 Le rassemblement de ces données n'aurait pas pu être réalisé sans l'aide de celles et ceux qui ont soit transmis leurs rapports d'opération, soit servi de relais vers les responsables d'opération, soit répondu avec diligence à des demandes groupées de rapports. Que toutes et tous en soient sincèrement remerciés.
 - **Antea Archéologie**: Murer Axelle.
-- **Archeodunum**: .
+- **Archeodunum**: Bonaventure Bertrand.
 - **Archéologues indépendants**: Florent Guillaume, Gomes Manuel.
 - **ARON bv**: Reygel Patrick.
 - **CNRS**: Lesguer Fabien, Py Michel.

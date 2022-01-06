@@ -34,7 +34,7 @@ Pour signaler des erreurs ou ajouter des fours à cette liste, envoyer les infor
 - **precision** : évaluée de ***0*** à ***3***, la précision des coordonnées permet une estimation de la localisation du four. ***3*** : coordonnées d'un point de la sole ; ***2***: le four se trouve dans un rayon de 20 m autour des coordonnées indiquées ; ***1***: le four se trouve dans un rayon de 100 m autour des coordonnées indiquées ; ***0*** : les coordonnées sont très approximatives, au pire le four se situe dans le territoire de la commune dont les coordonnées du centroïde sont données
 - **DateMin** : première année de l'arc chronologique durant lequel le four est estimé avoir fonctionné
 - **DateMax** : dernière année de l'arc chronologique durant lequel le four est estimé avoir fonctionné
-N.B. : Pour rappel, il n'y a pas d'année 0. Le Ier s. de notre ère aura ***1*** comme **`DateMin`**, ***100*** comme **`DateMax`**
+N.B. : Pour rappel, il n'y a pas d'année 0. Le Ier s. de notre ère aura ***1*** comme **`DateMin`**, ***100*** comme **`DateMax`**. Les fours ayant une **`DateMin`**  ou une **`DateMax`** à ***0*** sont dépourvus de datation.
 - **profondeur_sole** : mesure longitudinale de la sole (en m), sans prendre en considération l'ouverture
 - **largeur_sole** : mesure transversale *maximale* de la sole (en m), orthogonale à **`profondeur_sole`**
 - **largeur_ouverture** : mesure transversale de l'ouverture (en m)

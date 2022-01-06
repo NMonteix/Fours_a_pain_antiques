@@ -1,11 +1,12 @@
 ![Calendrier rustique de Saint-Romain-en-Gal, MAN83116](https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR4_MD5/0/1/6/b/12-553052.jpg)
 
 # Les fours à "pain" antiques (Ve s. av. n.è. - Ve s. de n.è.) : données
-Ce [fichier](https://github.com/NMonteix/Fours_a_pain_antiques/releases/download/Derniere_version/fours_donnees10.csv) présente les informations sur les fours à pain antiques, issues des rapports et publications de fouille, et rassemblées en particulier pour la rédaction de l'article soumis en février 2021 à *Gallia*. La liste rassemblée n'a aucune prétention à l'exhaustivité sur l'arc chronologique ou sur l'espace géographique concernés. Le format CSV permet la lecture du fichier dans n'importe quel tableur. Les données sont proposées sous licence [![Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.fr).
+Ce [fichier](https://github.com/NMonteix/Fours_a_pain_antiques/releases/download/Derniere_version/fours_donnees11.csv) présente les informations sur les fours à pain antiques, issues des rapports et publications de fouille, et rassemblées en particulier pour la rédaction de l'article "Les fours « à pain » dans les Gaules et les Germanies (Ve s. av. J.-C. n. è. - Ve s. apr. J.-C. apr. J.-C.), un regard technique", publié dans le volume 78-2 (2021) de *Gallia*. La liste rassemblée n'a aucune prétention à l'exhaustivité sur l'arc chronologique ou sur l'espace géographique concernés. Le format CSV permet la lecture du fichier dans n'importe quel tableur. Les données sont proposées sous licence [![Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.fr).
 
 ## Remerciements
 Le rassemblement de ces données n'aurait pas pu être réalisé sans l'aide de celles et ceux qui ont soit transmis leurs rapports d'opération, soit servi de relais vers les responsables d'opération, soit répondu avec diligence à des demandes groupées de rapports. Que toutes et tous en soient sincèrement remerciés.
 - **Antea Archéologie**: Murer Axelle.
+- **Archeodunum**: .
 - **Archéologues indépendants**: Florent Guillaume, Gomes Manuel.
 - **ARON bv**: Reygel Patrick.
 - **CNRS**: Lesguer Fabien, Py Michel.
@@ -14,8 +15,8 @@ Le rassemblement de ces données n'aurait pas pu être réalisé sans l'aide de 
 - **Inrap**: Barberan Sébastien,  Bataille Gérard,  Blondiau Lydie,  Bruley-Chabot Gaelle,  Célié Marc,  Gaudefroy Stéphane,  Houix Bertrand,  Le Gaillard Ludovic,  Lepaumier Hubert,  Mathelart Pierre,  Rollet Philippe,  Vauterin Chris-Cécile,  Villard Jean-François.
 - **Paleotime**: Fénéon Laetitia.
 - **Services régionaux de l'archéologie**:  Bellanca-Penel Delphine, Lacoste Elisabeth, Ollivier Laurence (Auvergne - Rhône-Alpes), Charmot Anne, Chenevoy Marie-Hélène, Kaurin Jenny, Prieto Josépha (Bourgogne - Franche-Comté), Cadars Laure (Bretagne), Clément Isabelle, Gautier Basset (Grand-Est), Courtiller Mickaël, Masson Bertrand (Hauts-de-France), Bolo Nathalie, Coulthard Nicola, Moitrel Patricia (Normandie), Bordillon Pascal (Nouvelle-Aquitaine), Dieulafait Christine, Pascal Henriette (Occitanie), Dewaelsche Gisèle, Vitali Gabrielle (PACA).
-- **Services archéologiques de collectivités**: Amoroso Hugo, Duvauchelle Anika (Site et Musée romains d’Avenches), Brkojewitsch Gaël (Metz Métropole), Couturier David (Pôle archéologique de la Ville de Paris), Dargery Vincent (Conseil général de l’Oise), Henrotay Denis (Agence wallonne du patrimoine), Le Bihan Jean-Paul (Centre de Recherche Archéologique du Finistère), Lefeuvre Aurélien (Service départemental archéoloique du Val d'Oise), Munier Claudine (Ville de Besançon), Petit Jean-Paul (Conservation départementale d’archéologie de Moselle).
-- **Universités**: Monteil Martial (U. de Nantes), Paridaens Nicolas (U. Libre de Bruxelles), Vermeersch Didier (U. de Cergy-Pontoise), Vilvorder Fabienne (UCLouvain).
+- **Services archéologiques de collectivités**: Amoroso Hugo, Duvauchelle Anika (Site et Musée romains d’Avenches), Brkojewitsch Gaël (Metz Métropole), Couturier David (Pôle archéologique de la Ville de Paris), Dargery Vincent (Conseil général de l’Oise), Henrotay Denis (Agence wallonne du patrimoine), Le Bihan Jean-Paul (Centre de Recherche Archéologique du Finistère), Lefeuvre Aurélien (Service départemental archéoloique du Val d'Oise), Munier Claudine (Ville de Besançon), Petit Jean-Paul (Conservation départementale d’archéologie de Moselle), Wech Pierre (Conseil général de l'Eure).
+- **Universités**: Clément Benjamin (U. de Franche-Comté), Monteil Martial (U. de Nantes), Paridaens Nicolas (U. Libre de Bruxelles), Vermeersch Didier (U. de Cergy-Pontoise), Vilvorder Fabienne (UCLouvain).
 
 ## Collaborer
 Pour signaler des erreurs ou ajouter des fours à cette liste, envoyer les informations permettant de remplir tous les champs, éventuellement assorties d'un plan et d'une photo, à <nicolas.monteix@univ-rouen.fr> ou bien intégrer les données dans le [fichier](https://github.com/NMonteix/Fours_a_pain_antiques/releases/) et créer une *Pull request*.
@@ -61,10 +62,10 @@ N.B. : Pour rappel, il n'y a pas d'année 0. Le Ier s. de notre ère aura ***1**
 - **valeur_ponderee** : nombre de four pondéré par la longueur de l'arc chronologique durant lequel le four est supposé avoir fonctionné. Cette valeur permet de corriger les fortes approximations pouvant caractériser les datations proposées : pour le tracé des courbes d'évolution, elle réduit le poids des fours datés de manière très lâche. Formule appliquée : **`nombre`/ (`DateMax`- `DateMin`)**
 
 ## Citation
-**Monteix N. 2021** : Les fours à « pain » antiques (Ve s. av. n.è. - Ve s. de n.è.) : données (v. 1.0), _GitHub_ \[URL : [https://github.com/NMonteix/Fours_a_pain_antiques/](https://github.com/NMonteix/Fours_a_pain_antiques/)\].
+**Monteix N. 2022** : Les fours à « pain » antiques (Ve s. av. n.è. - Ve s. de n.è.) : données (v. 1.1), _GitHub_ \[URL : [https://github.com/NMonteix/Fours_a_pain_antiques/](https://github.com/NMonteix/Fours_a_pain_antiques/)\].
 
 **[Fichier RIS](https://github.com/NMonteix/Fours_a_pain_antiques/blob/main/fours_donnees.ris)** pour importer la référence.
 
 ## Notes de version
-### 1.0
-Le [fichier](https://github.com/NMonteix/Fours_a_pain_antiques/releases/download/Derniere_version/fours_donnees10.csv) comporte les fours de France, Belgique, Pays-Bas, Luxembourg, Allemagne et Suisse. Principalement fondé sur le dépouillement de [Dolia](dolia.inrap.fr/) et de la bibliographie courante (*Carte archéologique de la Gaule*, *Bilans scientifiques régionaux*, *[Signa romana](https://signaromana.wordpress.com/)*, *Annuaire d’Archéologie Suisse*, etc.), le recensement des fours a été arrêté au 31 décembre 2020.
+### 1.1
+Le [fichier](https://github.com/NMonteix/Fours_a_pain_antiques/releases/download/Derniere_version/fours_donnees11.csv) comporte les fours de France, Belgique, Pays-Bas, Luxembourg, Allemagne et Suisse. Principalement fondé sur le dépouillement de [Dolia](dolia.inrap.fr/) et de la bibliographie courante (*Carte archéologique de la Gaule*, *Bilans scientifiques régionaux*, *[Signa romana](https://signaromana.wordpress.com/)*, *Annuaire d’Archéologie Suisse*, etc.), le recensement des fours a été arrêté au 31 décembre 2021.

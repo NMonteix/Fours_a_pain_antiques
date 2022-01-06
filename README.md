@@ -64,7 +64,7 @@ N.B. : Pour rappel, il n'y a pas d'année 0. Le Ier s. de notre ère aura ***1**
 ## Citation
 **Monteix N. 2022** : Les fours à « pain » antiques (Ve s. av. n.è. - Ve s. de n.è.) : données (v. 1.1), _GitHub_ \[URL : [https://github.com/NMonteix/Fours_a_pain_antiques/](https://github.com/NMonteix/Fours_a_pain_antiques/)\].
 
-**[Fichier RIS](https://github.com/NMonteix/Fours_a_pain_antiques/blob/main/fours_donnees.ris)** pour importer la référence.
+**[Fichier RIS](https://github.com/NMonteix/Fours_a_pain_antiques/blob/main/fours_donnees11.ris)** pour importer la référence.
 
 ## Notes de version
 ### 1.1
